@@ -23,6 +23,10 @@ while True:
             else:
                 pixels += [0,0,0]; # Off for the 0s
 
+    pixels += [0,0,255]; #Triple blue to terminate it
+    pixels += [0,0,255];
+    pixels += [0,0,255];
+
     binaryString = ''.join([chr(item) for item in pixels]) #Convert the pixel array into a binary string
 
     #POST the pixeldata to the strip, note that we're using the preview option which prevents the pattern from being saved permanently

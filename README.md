@@ -14,7 +14,7 @@ Original implementation by @julianh2o.
 Code Bounty
 ===========
 
-The first person who submits a pull request with a new file with their own clock that contains the following features will win 50% off a (https://store.hohmbody.com/products/flickerstrip-starter-kit)[Flickerstrip Starter] kit from the HOhmBody store!
+The first person who submits a pull request with a new file with their own clock that contains the following features will win 50% off a [Flickerstrip Starter](https://store.hohmbody.com/products/flickerstrip-starter-kit) kit from the HOhmBody store!
 
 * Clock must perform some kind of noticable animation when a new hour rolls over. This animation should be at least 3 frames long.
 * A unique color palette, at least different from the default.
